@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+G:\EclipseADT-WS\HiraKata\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1453154908.index
+3559447640.index
+134989129.index

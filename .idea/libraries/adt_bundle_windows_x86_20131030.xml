@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adt-bundle-windows-x86-20131030">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Resources/adt-bundle-windows-x86-20131030.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
